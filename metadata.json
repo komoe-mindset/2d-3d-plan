@@ -1,0 +1,7 @@
+{
+  "name": "Sample Home Design: A House on One Line",
+  "description": "Sample Home Design, Coll de Marès, Mallorca. An interactive 2D floor plan that seamlessly lifts into a 3D architectural walkthrough.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
